@@ -1,2 +1,2 @@
 # demo
-some description about this new repository.
+This is a description about this new repository.
